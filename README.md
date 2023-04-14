@@ -3,6 +3,7 @@
 ### Akash Debnath <br>
 I am a WordPress and front-end developer.<br>I have skilled in Html, CSS, javascript, Bootstrap, jquery, PHP & WordPress.<br>I am currently learning Laravel development.<br>I want to be a full-stack web developer.<br><br>
 
+[![](https://visitcount.itsvg.in/api?id=akashworks707&icon=5&color=1)](https://visitcount.itsvg.in)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/developerakash707) 
@@ -24,6 +25,6 @@ I am a WordPress and front-end developer.<br>I have skilled in Html, CSS, javasc
 ![](https://github-contributor-stats.vercel.app/api?username=akashworks707&limit=5&theme=gruvbox&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=akashworks707&icon=5&color=1)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
